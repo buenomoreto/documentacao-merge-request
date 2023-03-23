@@ -1,5 +1,6 @@
 ### **Qual o tipo de alteração essa PR produz?**
-\- [x] 🐛Bug
+/
+ - [x] 🐛Bug
  - [x] 🚀Feat
  - [x] 💅 Style
  - [x] 📝 Refactor
