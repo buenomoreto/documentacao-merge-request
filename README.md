@@ -21,7 +21,7 @@ Quando adicionado um produto no carrinho lateral ou quando é retirado não é e
 **Quando adicionado um produto no carrinho lateral é emitido o evento GTM "addToCart" e quando é removido é emitido o evento GTM "removeFromCart".** 
 
 ### **Este PR introduz uma mudança significativa?**
------
+### -----
 Não, apenas atualiza a versão dos pacotes @wapstore/carrinho-lateral e @wapstore/estados-produto. 
 
 ### **Outra informação**
