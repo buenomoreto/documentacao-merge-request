@@ -28,3 +28,23 @@ Não, apenas atualiza a versão dos pacotes @wapstore/carrinho-lateral e @wapsto
 -----
 Tarefa: N/A 
 Issue da solicitação: N/A 
+
+Terminologias merges
+====================
+
+**"update":** usado quando você atualiza ou modifica algo existente, como uma biblioteca ou um arquivo de configuração.  
+-----
+**"refactor":** usado quando você faz alterações no código para melhorar sua estrutura ou desempenho, sem alterar seu comportamento.  
+-----
+**"remove":** usado quando você remove algo, como um arquivo ou um trecho de código.  
+-----
+**"merge":** usado quando você mescla duas ou mais branches do Git. 
+-----
+**"revert":** usado quando você reverte uma alteração anterior.  
+-----
+**"test":** usado quando você adiciona ou atualiza testes de unidade ou integração.  
+-----
+**"docs":** usado quando você adiciona ou atualiza documentação.  
+-----
+**"style":** usado quando você faz alterações de formatação ou estilo, como espaçamento ou indentação.
+-----
